@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FormInputExample</string>
+    <string name="user_name">Name</string>
+    <string name="user_phone">Phone</string>
+    <string name="user_email">Email</string>
+    <string name="user_work_status">Work Status</string>
+    <string name="user_work_status1">Employed</string>
+    <string name="user_work_status2">Unemployed</string>
+    <string name="user_work_status3">Student</string>
+    <string name="user_agreement">Do you agree to the terms and condition?</string>
+    <string name="user_button_text">SAVE</string>
+    <string-array name="CountryArray">
+        <item>England</item>
+        <item>Northern Ireland</item>
+        <item>Scotland</item>
+        <item>Wales</item>
+    </string-array>
+</resources>
